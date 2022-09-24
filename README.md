@@ -1,1 +1,2 @@
-![Ilustrasi Pengumpulan Tugas](https://user-images.githubusercontent.com/72344488/192102642-9836ebb5-fdfd-4ef6-9ccc-b0d6189cff6a.png)
+![Screenshot 2022-09-24 222044](https://user-images.githubusercontent.com/72344488/192103057-e5ec66f2-78b6-477c-9b7a-e52[Screenshot 2022-09-24 222044](https://user-images.githubusercontent.com/72344488/192103057-e5ec66f2-78b6-477c-9b7a-e5208e9b8047.png)
+08e9b8047.png)
