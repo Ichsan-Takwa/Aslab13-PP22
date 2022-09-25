@@ -1,8 +1,6 @@
 # SOAL NOMOR 2 PEKAN 2
 # MAHENDRA KIRANA M.B. ( H071221058 )
 
-
-
 GOLONGAN    = str  (input("Masukkan Golongan           : "))
 DAYA        = float(input("Masukkan Daya (VA)          : "))
 PEMAKAIAN   = float(input("Masukkan Pemakaian (Total)  : "))
