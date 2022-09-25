@@ -1,14 +1,24 @@
-
+from dataclasses import replace
 from unicodedata import numeric
 
 
-a,b,c,d,e = map(str,input("Masukkan angkanya : ").split())
+a,b,c,d,e = input("Masukkan angkanya : ").split()
+
 angkaGanjil = 0
 angkaGenap = 0
 angkaPositif = 0
 angkaNegatif = 0
 
-if a.isnumeric() and b.isnumeric and c.isnumeric and d.isnumeric and e.isnumeric:
+
+h = a.replace("-","") 
+i = b.replace("-","") 
+j = c.replace("-","") 
+k = d.replace("-","") 
+l = e.replace("-","") 
+
+
+if h.isnumeric() and i.isnumeric() and j.isnumeric() and k.isnumeric() and l.isnumeric():
+
     a= int(a)
     b= int(b)
     c= int(c)
