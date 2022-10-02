@@ -2,7 +2,7 @@
 # MAHENDRA KIRANA M.B(H071221058)
 
 x = int(input("x : "))
-y = int(input("y ; "))
+y = int(input("y : "))
 
 for i in range(1, y+1) :
     print(i, end = " ")
