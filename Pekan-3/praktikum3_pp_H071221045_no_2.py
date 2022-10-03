@@ -9,7 +9,7 @@ menit = int((jumlah % 3600) / 60)
 detik = int((jumlah % 3600) % 60)
 
 if jam > 24:
-    jam1 = jam - 24
+    jam = jam - 24
 
 if jam >= 6 and jam < 12:
     print("Selamat Pagi")
