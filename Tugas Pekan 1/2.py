@@ -1,5 +1,5 @@
 print ("program konversi waktu dari jumlah detik ke Jam/menit/detik")
-
+print ("==========")
 jumlah_detik = int(input("masukkan jumlah detik : "))
 
 jam = jumlah_detik//3600
