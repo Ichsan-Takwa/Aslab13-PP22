@@ -17,7 +17,7 @@ class Kubus:
         self.__massa = value
 
     def getMassaJenis(self):
-        return (massa)/(lebar*tinggi*panjang)
+        return (self.__massa)/(self.__lebar*self.__tinggi*self.__panjang)
 
 lebar = float(input())
 tinggi = float(input())
