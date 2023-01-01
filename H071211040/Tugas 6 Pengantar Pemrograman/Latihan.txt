@@ -1,0 +1,5 @@
+Latihan.txt
+
+Baris Pertama
+Baris Kedua
+Dan Seterusnya. . .
